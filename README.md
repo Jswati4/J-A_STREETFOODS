@@ -42,4 +42,5 @@ This project was developed as part of my studies (first year of SIO).
 1. Download or clone the project:
 ```bash
 git clone https://github.com/Jswati4/J-A_STREETFOODS.git
+
 2. Open index.html in a browser.
