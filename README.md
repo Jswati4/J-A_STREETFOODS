@@ -45,7 +45,6 @@ This project was developed as part of my studies (first year of SIO).
 
 
 *En Français*
-# 🍔 J&A STREETFOODS
 
 Un site web vitrine pour un fast-food, **100 % fait maison avec amour**.
 Ce projet a été développé dans le cadre de mes études (première année de SIO).
